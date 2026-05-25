@@ -1,0 +1,25 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+
+# Logs and monitoring outputs
+*.log
+monitoring/*.csv
+
+# Model artifacts - optional
+# Uncomment if you do not want to upload trained models
+# *.pkl
+# *.joblib
