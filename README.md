@@ -26,6 +26,7 @@ Prediction Response
         ↓
 Logging / Monitoring
 ```
+For a detailed architecture diagram, see [System Architecture](docs/system_architecture.md).
 
 ## Tech Stack
 
